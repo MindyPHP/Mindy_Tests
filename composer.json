@@ -4,8 +4,8 @@
     "version": "1.0.0",
     "license": "MIT",
     "autoload": {
-        "psr-0": {
-            "": "src/"
+        "psr-4": {
+            "Mindy\\Tests": "src/Mindy/Tests"
         }
     },
     "require": {
