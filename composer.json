@@ -10,6 +10,7 @@
     },
     "require": {
         "php": ">=5.4",
+        "mindy/application": "*",
         "mindy/base": "*",
         "mindy/orm": "*"
     },
