@@ -10,8 +10,8 @@
     },
     "require": {
         "php": ">=5.4",
-        "mindy/base": "dev-master",
-        "mindy/orm": "dev-master"
+        "mindy/base": "*",
+        "mindy/orm": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.32",
